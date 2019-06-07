@@ -1,0 +1,2 @@
+# Naluno
+Another board game
